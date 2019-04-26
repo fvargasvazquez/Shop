@@ -11,7 +11,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Shop.Web.Data;
-using Shop.Web.Data.Entities;
 
 namespace Shop.Web
 {
